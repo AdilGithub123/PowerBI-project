@@ -64,8 +64,8 @@ This dashboard provides visual insights into **Sales Performance in 2026**. It w
 
 | Source | Description |
 |--------|-------------|
-| `customers.csv` | [Customer Info] |
-| `orders.csv` | [Orders from 2024-2026] |
+| `customers.csv` | Basic customer information |
+| `orders.csv` | Orders information from 2024-2026 |
 
 > ⚠️ **Note:** The data included in this repo is sample/anonymised data for demonstration purposes only.
 
