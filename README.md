@@ -83,7 +83,7 @@ This dashboard provides visual insights into **Sales Performance in 2026**. It w
 
 **Your Name**
 - GitHub: [@AdilGithub123](https://github.com/AdilGithub123)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/adil-polat-65b8b5312/)
+- LinkedIn: [My-LinkedIn](https://www.linkedin.com/in/adil-polat-65b8b5312/)
 
 ---
 
